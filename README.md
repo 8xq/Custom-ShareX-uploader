@@ -36,6 +36,12 @@ Some webservers will not allow large file uploads so it might cause error !
 * Easy configuration (just change tokens and edit text file)
 * Upload custom files not just images !
 ```
+## Video example 
+```
+Below is an example of me setting up the script onto my apache web server , as you can see it is very simple and requires
+little to no effort at all.
+```
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eXwJbGtCC54/0.jpg)](https://www.youtube.com/watch?v=eXwJbGtCC54)
 
 
 ```
