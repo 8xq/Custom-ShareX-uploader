@@ -4,6 +4,7 @@ $request_headers = getallheaders(); // Simply gets all headers sent with request
 $method = $_SERVER['REQUEST_METHOD']; // Simply gets the request method (POST , GET) ect
 $SecretKey_check = $_GET['secretKey']; // This checks the key sent from shareX upon request
 $randomFileNameLength = 12; // This is the random length allowed for a file name
+
 /*
   This is the main uploading process for the shareX image uploader as you can see below quite alot is happening
   Here it will check for a matching header for the "ShareXheaderKey" and ensure it matches the static one
