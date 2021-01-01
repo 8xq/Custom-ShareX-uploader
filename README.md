@@ -20,7 +20,7 @@ As you will see below this is a very simple script to be setup and will only req
 3. Simply replace "RequestURL" with your website domain (for example https://www.site.com/)
 4. Then add the secretKey value that you chose before in the Config.php file
 5. Then you need to add the "ShareXheaderKey" this will also need to be the same one from Config.php
-6. Then you just need to save the changes and double click the config and it will ask you to use that config !
+6. Then you just need to save the changes and double click the config and it will ask you to use that config
 ```
 
 ## Extra
