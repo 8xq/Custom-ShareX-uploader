@@ -1,0 +1,16 @@
+﻿{
+  "Version": "13.4.0",
+  "Name": "nullzy",
+  "DestinationType": "ImageUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "http://localhost/Upload.php",
+  "Parameters": {
+    "secretKey": "ENTERYOURKEYHERE"
+  },
+  "Headers": {
+    "ShareXheaderKey": "ENTERYOURHEADERKEY"
+  },
+  "Body": "MultipartFormData",
+  "FileFormName": "sharex",
+  "URL": "$response$"
+}
